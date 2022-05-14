@@ -694,7 +694,7 @@ Primary GPG keys for Node.js Releasers (some Releasers sign with subkeys):
 * **Shelley Vohr** <<shelley.vohr@gmail.com>>
   `B9E2F5981AA6E0CD28160D9FF13993A75599653C`
 
-To import the full set of trusted release keys (including subkeys possibly used
+To import the full set of trusted release keys (including sub-keys possibly used
 to sign releases):
 
 ```bash
